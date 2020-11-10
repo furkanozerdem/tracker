@@ -1,0 +1,1 @@
+Program ilk açıldığında, WebCam üzerinden görüntü alıyor. Bu görüntü üzerinden takip edilmek istenen obje mouse ile işaretlenip enter'a tıklandığında ise obje takibi başlıyor.
