@@ -53,3 +53,4 @@ while True:
     cv2.imshow("Tracking",img)
     if cv2.waitKey(1) & 0xff == ord('q'):
         break
+    
